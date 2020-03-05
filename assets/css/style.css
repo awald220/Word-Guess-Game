@@ -1,0 +1,44 @@
+body {
+    width: 960px;
+    background-color: beige;
+}
+
+header {
+   width: 50%;
+   margin-left: 28%;
+    
+}
+
+header img {
+    margin-top: -20%;
+}
+
+section {
+    width: 70%;
+    height: auto;
+    border: 8px dotted black;
+    margin-left: 15%;
+  
+}
+
+section img {
+    width: 90%;
+    margin: 5%;
+    
+}
+
+.correctGuess {
+    border: 1px solid black;
+    height: 30%;
+    width: 55%;
+    margin: 10%;
+
+}
+
+.missedLetters {
+    border: 1px solid black;
+    height: 30%;
+    width: 55%;
+    margin: 10%;
+}
+
